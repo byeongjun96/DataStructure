@@ -18,6 +18,12 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Users\qwuid\Downloads\Data_Structure_Src\Ch03\ArrayList\ArrayList.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Users\qwuid\Downloads\Data_Structure_Src\Ch03\ArrayList\ArrayList.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{053734C9-83FC-4464-B1C6-A5088A3AB590}</ProjectGuid>
@@ -150,9 +156,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="DataStructure.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

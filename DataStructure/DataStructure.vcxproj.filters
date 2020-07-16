@@ -15,7 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DataStructure.cpp">
+    <ClInclude Include="..\..\Users\qwuid\Downloads\Data_Structure_Src\Ch03\ArrayList\ArrayList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Users\qwuid\Downloads\Data_Structure_Src\Ch03\ArrayList\ArrayList.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
